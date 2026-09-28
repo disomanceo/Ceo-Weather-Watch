@@ -24,3 +24,7 @@
 ## ข้อมูลขอบเขตจังหวัด
 
 `provinces.geojson` จาก [Thailand canonical admin names](https://github.com/DevelopedbyWill/thailand-canonical-admin-names) ภายใต้ CC BY 4.0 (ข้อมูลขอบเขตต้นทางระบุปี 2019). แผนที่ใช้ Leaflet และแผ่นภาพ OpenStreetMap พร้อมแสดงเครดิต.
+
+## มุมมองแผนที่อากาศ
+
+ใช้ Windy official embed สำหรับลม ฝนคาดการณ์ อุณหภูมิ และเรดาร์ฝน. ปุ่ม “เลือกจุด” สลับกลับแผนที่ของแอปเพื่อคลิกพิกัดและแสดงข้อมูล Open-Meteo. ข้อมูลใน iframe และการ์ดมาจากคนละผู้ให้บริการ; คลิกภายใน iframe ไม่สามารถส่งพิกัดกลับแอปข้ามโดเมนได้. ตรวจสิทธิ์การใช้ embed ก่อนใช้งานเชิงพาณิชย์.
